@@ -1,0 +1,3 @@
+HEROKU_EMAIL=sanbose97@gmail.com
+HEROKU_API_KEY
+HEROKU_APP_NAME=ci-cd-based
